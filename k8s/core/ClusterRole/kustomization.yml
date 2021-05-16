@@ -1,0 +1,4 @@
+resources:
+  - ./external-secrets-controller.yml
+  - ./external-secrets-edit.yml
+  - ./external-secrets-view.yml

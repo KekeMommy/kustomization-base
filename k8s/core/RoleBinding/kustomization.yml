@@ -1,0 +1,2 @@
+resources:
+  - ./external-secrets-leaderelection.yml

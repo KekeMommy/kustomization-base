@@ -1,0 +1,8 @@
+namespace: external-secrets
+resources:
+  - ./ClusterRole
+  - ./ClusterRoleBinding
+  - ./Deployment
+  - ./Role
+  - ./RoleBinding
+  - ./ServiceAccount
