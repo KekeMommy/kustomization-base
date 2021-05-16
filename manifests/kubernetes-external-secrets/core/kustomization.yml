@@ -1,0 +1,13 @@
+namespace: kubernetes-external-secrets
+
+images:
+  - name: ghcr.io/external-secrets/kubernetes-external-secrets
+    newName: ghcr.io/external-secrets/kubernetes-external-secrets
+    newTag: 8.0.1
+
+resources:
+  - ./ClusterRole
+  - ./ClusterRoleBinding
+  - ./Deployment
+  - ./Service
+  - ./ServiceAccount

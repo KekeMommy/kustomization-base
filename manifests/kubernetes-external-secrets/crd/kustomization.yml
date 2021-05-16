@@ -1,0 +1,2 @@
+resources:
+  - https://raw.githubusercontent.com/external-secrets/kubernetes-external-secrets/8.0.1/charts/kubernetes-external-secrets/crds/kubernetes-client.io_externalsecrets_crd.yaml
