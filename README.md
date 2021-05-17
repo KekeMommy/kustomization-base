@@ -4,7 +4,7 @@
 
 # kustomization-base
 
-Kubernetes manifests for external-secrets.
+Kubernetes manifests for [external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) and [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets).
 
 ## License
 
