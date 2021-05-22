@@ -3,7 +3,7 @@ namespace: external-secrets
 images:
   - name: ghcr.io/external-secrets/external-secrets
     newName: ghcr.io/external-secrets/external-secrets
-    newTag: v0.1.2
+    newTag: v0.1.3
 
 resources:
   - ./ClusterRole
